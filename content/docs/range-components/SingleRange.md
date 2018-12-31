@@ -4,8 +4,8 @@ title: "SingleRange"
 layout: docs
 sectionid: docs
 permalink: range-components/singlerange.html
-prev: list-components/multidatalist.html
-prevTitle: "List Components: MultiDataList"
+prev: list-components/tagcloud.html
+prevTitle: "List Components: TagCloud"
 next: range-components/multirange.html
 nextTitle: "MultiRange"
 redirect_from:

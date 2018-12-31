@@ -4,8 +4,8 @@ title: "DataController"
 layout: docs
 sectionid: docs
 permalink: base-components/datacontroller.html
-prev: base-components/tagcloud.html
-prevTitle: "TagCloud"
+prev: base-components/textfield.html
+prevTitle: "TextField"
 next: base-components/selectedfilters.html
 nextTitle: "SelectedFilters"
 redirect_from:
